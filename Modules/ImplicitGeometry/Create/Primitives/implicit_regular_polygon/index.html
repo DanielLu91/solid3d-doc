@@ -859,14 +859,12 @@
 </tbody>
 </table>
 <h3 id="example">Example</h3>
+<p><img alt="ImplicitRegularPolygon" src="../implicit_regular_polygon.png" /></p>
 <pre><code class="language-cpp">#include &quot;axis3d.h&quot;
-#include &quot;direction3d.h&quot;
 #include &quot;implicit_regular_polygon.h&quot;
-#include &quot;Point3D.h&quot;
 
 S3D::ImplicitRegularPolygon* polygon = S3D::ImplicitRegularPolygon::New();
 S3D::Axis3D                  axis;
-S3D::Axis3D::Create(S3D::Point3D(0.0, 0.0, 0.0), S3D::Direction3D::CreateZDir(), axis);
 S3D::ImplicitRegularPolygon::Create(axis, 3.0, true, 5, *polygon);
 </code></pre>
 

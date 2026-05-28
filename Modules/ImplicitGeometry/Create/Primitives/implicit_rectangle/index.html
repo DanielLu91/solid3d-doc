@@ -866,15 +866,16 @@
 </tbody>
 </table>
 <h3 id="example">Example</h3>
+<p><img alt="ImplicitRectangle" src="../implicit_rectangle.png" /></p>
 <pre><code class="language-cpp">#include &quot;axis3d.h&quot;
-#include &quot;direction3d.h&quot;
 #include &quot;implicit_rectangle.h&quot;
-#include &quot;Point3D.h&quot;
+
+#define _USE_MATH_DEFINES
+#include &lt;math.h&gt;
 
 S3D::ImplicitRectangle* rectangle = S3D::ImplicitRectangle::New();
 S3D::Axis3D             axis;
-S3D::Axis3D::Create(S3D::Point3D(0.0, 0.0, 0.0), S3D::Direction3D::CreateZDir(), axis);
-S3D::ImplicitRectangle::Create(axis, 10.0, 20.0, 0.0, 3.0, *rectangle);
+S3D::ImplicitRectangle::Create(axis, 1.0, 2.0, M_PI / 6.0, 0.3, *rectangle);
 </code></pre>
 
 
