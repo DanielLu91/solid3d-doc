@@ -1,0 +1,27 @@
+var class_s3_d_1_1_x_y_z_w =
+[
+    [ "XYZW", "class_s3_d_1_1_x_y_z_w.html#ae3e79a523eb846585bceffc09dd7c0df", null ],
+    [ "XYZW", "class_s3_d_1_1_x_y_z_w.html#a6572d4e7cd9e3e4eabba6768f3a2372d", null ],
+    [ "XYZW", "class_s3_d_1_1_x_y_z_w.html#a61cda05f434340889804daa7adb4dfcc", null ],
+    [ "Distance", "class_s3_d_1_1_x_y_z_w.html#ae994c59e0cfdd2c8eab11ecb2c48a1fe", null ],
+    [ "FromArray", "class_s3_d_1_1_x_y_z_w.html#ad9238b2470c7d7e46b27ab2c3d997216", null ],
+    [ "Init", "class_s3_d_1_1_x_y_z_w.html#af9de04f736dec00ff36d951f1f065da3", null ],
+    [ "operator*", "class_s3_d_1_1_x_y_z_w.html#a53d5753b76b2b7df7393a09da9a58250", null ],
+    [ "operator*=", "class_s3_d_1_1_x_y_z_w.html#ade093f9c2659a1fb7f7132dcff12c21a", null ],
+    [ "operator+", "class_s3_d_1_1_x_y_z_w.html#add1f77c7d27c894a2aef121b2be2900c", null ],
+    [ "operator+=", "class_s3_d_1_1_x_y_z_w.html#ac9e71d0339c80bab1330613b581bf365", null ],
+    [ "operator-", "class_s3_d_1_1_x_y_z_w.html#ac3ab97989ae54e09bdd60d39669547c2", null ],
+    [ "operator-=", "class_s3_d_1_1_x_y_z_w.html#a91d727ce2b8c9d953f2de5183391ee86", null ],
+    [ "operator/", "class_s3_d_1_1_x_y_z_w.html#a1598cb07c735758d24a7ef95a5df16d5", null ],
+    [ "operator/=", "class_s3_d_1_1_x_y_z_w.html#a9292d7c400b1d643b8dfeda8c26e74a7", null ],
+    [ "SetW", "class_s3_d_1_1_x_y_z_w.html#a895a918380aaab47c7b00374fc250839", null ],
+    [ "SetX", "class_s3_d_1_1_x_y_z_w.html#abe53924879250ca7a36bcd0594670711", null ],
+    [ "SetY", "class_s3_d_1_1_x_y_z_w.html#aac34aa33bc13e546c5243e49ac9de707", null ],
+    [ "SetZ", "class_s3_d_1_1_x_y_z_w.html#a99951a6d90b6db7c566301f768c064cc", null ],
+    [ "ToArray", "class_s3_d_1_1_x_y_z_w.html#abf95dfa50354f04900ca152a1092da4f", null ],
+    [ "ToPoint", "class_s3_d_1_1_x_y_z_w.html#adafbc05a18289b8ea9e41f5d742458d3", null ],
+    [ "W", "class_s3_d_1_1_x_y_z_w.html#a72e781313a486459b1039587313d4c1a", null ],
+    [ "X", "class_s3_d_1_1_x_y_z_w.html#adcc836e940ed0fdf7c87b1f6f56ef8da", null ],
+    [ "Y", "class_s3_d_1_1_x_y_z_w.html#ae1ee67d8b40e66c4fd0f85897300900a", null ],
+    [ "Z", "class_s3_d_1_1_x_y_z_w.html#a78a3f550beaa9601b3d98ada8e734985", null ]
+];
